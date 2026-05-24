@@ -16,6 +16,7 @@ I build process automations using the top RPA tools in the market:
 |------------|------|
 | [uipath-portfolio](https://github.com/guidoreis/-uipath-portfolio) | UiPath |
 | [power-automate-portfolio](https://github.com/guidoreis/power-automate-portfolio) | Power Automate |
+| [automation-anywhere-portfolio](https://github.com/guidoreis/automation-anywhere-portfolio) | Automation Anywhere |
 
 ## Contact
 
